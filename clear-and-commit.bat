@@ -8,6 +8,6 @@ git add -A
 
 git commit -m "init"
 
-git remote add origin https://github.com/Direct5dom/Direct5dom.git
+git remote add origin https://github.com/SIXiaolong1117/SIXiaolong1117.git
 
 git push -f origin main
