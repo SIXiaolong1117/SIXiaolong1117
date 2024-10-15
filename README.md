@@ -28,7 +28,7 @@
 
 <p align="center">
 	<a href="https://github.com/SIXiaolong1117" class="rich-diff-level-one">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIXiaolong1117&show_icons=true&langs_count=10&layout=compact&exclude_repo=github-readme-stats,SIXiaolong1117,XiaolongSI,Direct5dom.github.io,Web-Dev-For-Beginners,imageDB,BlogMarkdown,Rules,jellyfin-web,tinyrenderer,GitHacker,Ray,spot_mini_mini" alt="Charmve's Stats" >
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIXiaolong1117&show_icons=true&langs_count=10&layout=compact&exclude_repo=github-readme-stats,SIXiaolong1117,XiaolongSI,MyBlog,Web-Dev-For-Beginners,imageDB,BlogMarkdown,Rules,jellyfin-web,tinyrenderer,GitHacker,Ray,spot_mini_mini" alt="Charmve's Stats" >
 	</a>
 </p>
 
