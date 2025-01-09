@@ -21,10 +21,10 @@
 
 ### 🔭Work
 
-- [远程工具箱 (Remote Toolbox)](https://github.com/SIXiaolong1117/WinWoL)
-- [网关切换器 (Gateway Switcher)](https://github.com/SIXiaolong1117/NetworkSelector)
-- [图片转 Base64（Pic to Base64）](https://github.com/SIXiaolong1117/vue-pictobase64)
-- [See My Server](https://www.microsoft.com/store/productId/9MTGBS9PTCH8)
+- [See My Server](https://github.com/SIXiaolong1117/SeeMyServer)：一款服务器监控软件，使用 WinUI3。
+- [远程工具箱 (Remote Toolbox)](https://github.com/SIXiaolong1117/WinWoL)：一个集成网络唤醒、远程桌面 (RDP)、SSH指令/脚本的远程工具箱 (Remote Toolbox)，使用 WinUI3。
+- [网关切换器 (Gateway Switcher)](https://github.com/SIXiaolong1117/NetworkSelector)：一个 Windows 网络配置切换器，可以在多个预设配置间快速切换，使用 WinUI3。
+- [图片转 Base64（Pic to Base64）](https://github.com/SIXiaolong1117/vue-pictobase64)：一个图片转 Base64 编码的工具，使用 Vue + Electron。
 
 <p align="center">
 	<a href="https://github.com/SIXiaolong1117" class="rich-diff-level-one">
