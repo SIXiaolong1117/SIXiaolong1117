@@ -24,7 +24,7 @@
 - [远程工具箱 (Remote Toolbox)](https://github.com/SIXiaolong1117/WinWoL)：一个集成网络唤醒、远程桌面 (RDP)、SSH指令/脚本的远程工具箱 (Remote Toolbox)，使用 WinUI3。
 - [网关切换器 (Gateway Switcher)](https://github.com/SIXiaolong1117/NetworkSelector)：一个 Windows 网络配置切换器，可以在多个预设配置间快速切换，使用 WinUI3。
 - [图片转 Base64（Pic to Base64）](https://github.com/SIXiaolong1117/vue-pictobase64)：一个图片转 Base64 编码的工具，使用 Vue + Electron。
-- [𝓛𝓲𝓷𝓴 𝓒𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷](https://github.com/SIXiaolong1117/LinkCollection)：一个纯前端静态页面实现的社交链接整合网页，基于 Vue。
+<!-- - [𝓛𝓲𝓷𝓴 𝓒𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷](https://github.com/SIXiaolong1117/LinkCollection)：一个纯前端静态页面实现的社交链接整合网页，基于 Vue。 -->
 
 <p align="center">
 	<a href="https://github.com/SIXiaolong1117" class="rich-diff-level-one">
