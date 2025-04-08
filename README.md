@@ -1,18 +1,18 @@
 # Hi there 👋 I'm [司晓龙 | SI-Xiaolong](https://sixiaolong.win/)
 
-<p align="center">
+<!-- <p align="center">
   <p align="center">
     <a href="https://x.com/SI_Xiaolong">
       <img src="https://img.shields.io/badge/follow-SI_Xiaolong-blue?style=flat&logo=x"/>
     </a>
   </p>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/SIXiaolong1117" class="rich-diff-level-one">
 		<img src="https://github-readme-stats.vercel.app/api?username=SIXiaolong1117" alt="Charmve's Stats" >
 	</a>
-</p>
+</p> -->
 
 - Graduated in 2024 with a degree in Material Science and Engineering from North China University of Technology (NCUT).
 
